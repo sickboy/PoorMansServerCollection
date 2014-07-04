@@ -1,12 +1,12 @@
-= Poor mans server collections - For Play withSIX
+# Poor mans server collections - For Play withSIX
 
-== Introduction
+## Introduction
 
 We're working hard on providing you with an amazing Collection Sharing experience, which we plan to introduce in the next few months.
 
 But for now, here is a quick way on how to deal with the Steam Query limitations for the ARMA2OA and ARMA3 games.
 
-== How to
+## How to
 
 * step1: edit our_server1.yml; add appropriate ip and port of the server.
 * step2: upload to dropbox
