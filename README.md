@@ -2,7 +2,7 @@
 
 ## Introduction
 
-We're working hard on providing you with an amazing Collection Sharing experience, which we plan to introduce in the next few months.
+We're working hard on providing you with an amazing Collection Sharing experience, which we plan to introduce in the next few weeks.
 
 But for now, here is a quick way on how to deal with the Steam Query limitations for the ARMA2OA and ARMA3 games.
 
@@ -14,6 +14,7 @@ But for now, here is a quick way on how to deal with the Steam Query limitations
    example: Our server [UK] pws://dl.dropboxusercontent.com/u6666666666666666666/our_server1.yml
 
 Optionally edit config.yml and server.yml more to your liking.
+You can also omit the adding of the pws URL in the server name, and just give the pws:// link to anyone privately, or on your website.
 
 Enjoy!
 
