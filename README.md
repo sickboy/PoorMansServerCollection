@@ -8,10 +8,10 @@ But for now, here is a quick way on how to deal with the Steam Query limitations
 
 ## How to
 
-1. edit our_server1.yml; add appropriate ip and port of the server.
-2. upload to dropbox
+1. Edit our_server1.yml; add appropriate ip and port of the server.
+2. Upload both yml files to dropbox or other hosting service of your choice
 3. add pws:// uri to server.yml into server name, which will be picked up by our client.
-   example:  pws://dl.dropboxusercontent.com/u6666666666666666666/our_server1.yml
+   example: Our server [UK] pws://dl.dropboxusercontent.com/u6666666666666666666/our_server1.yml
 
 Optionally edit config.yml and server.yml more to your liking.
 
