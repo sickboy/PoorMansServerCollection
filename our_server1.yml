@@ -1,0 +1,20 @@
+--- 
+:name: Our server name # enter your server name
+:ip: 127.0.0.1 # enter the valid ip address of the server
+:port: 2303 # For Gamespy it should be the same port as the game server, e.g 2302.
+            # For Steam it should be the game server port + 1. For ARMA2OA make sure you configure the SteamQuery port on your server to that same port! 
+:open: true # if false, the user is not able to add or remove mods from the collection
+:game: arma3 # use arma2co  for arma 2 combined operations
+:required_mods:  # which mods must be loaded to join the server
+- "@CBA_A3"
+:allowed_mods: # which mods are optional
+- "@Blastcore_A3"
+- "@JSRS2"
+- "@VTS_WeaponResting"
+
+#:password: password # uncomment and set to automatically enter server password
+
+# See for more advanced usage: https://docs.google.com/a/six-networks.org/document/d/1K5gsMuvN1E_GGajrkcLzapEuHPN1eZZ68ok5hczfhQ4/edit
+#:apps: []
+#:missions: []
+#:mpmissions: []

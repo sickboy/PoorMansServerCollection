@@ -1,0 +1,10 @@
+--- 
+:homepage: http://withsix.com # change to actual homepage
+:servers: 
+- our_server1 # this must be the server.yml filename without '.yml'
+
+# See for more advanced usage: https://docs.google.com/a/six-networks.org/document/d/1K5gsMuvN1E_GGajrkcLzapEuHPN1eZZ68ok5hczfhQ4/edit
+#:hosts: []
+#:apps: {}
+#:missions: {}
+#:mpmissions: {}
