@@ -4,9 +4,8 @@
 :port: 2303 # For Gamespy it should be the same port as the game server, e.g 2302.
             # For Steam it should be the game server port + 1. For ARMA2OA make sure you configure the SteamQuery port on your server to that same port! 
 :open: true # if false, the user is not able to add or remove mods from the collection
-:game: arma3 # use arma2co  for arma 2 combined operations
-             #arma3: 9DE199E3-7342-4495-AD18-195CF264BA5B
-             #arma2 co: 1947DE55-44ED-4D92-A62F-26CFBE48258B
+:game: arma3 # use arma2oaco  for arma 2 combined operations
+
 
 :required_mods:  # which mods must be loaded to join the server
 - "@CBA_A3"
